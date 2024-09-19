@@ -3,7 +3,7 @@
 ### <img align='right' src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="270">
 *Ruby Developer at  <a href="https://sun-asterisk.vn/"><img src="https://sun-asterisk.vn/wp-content/uploads/2020/10/logo-sun@2x.png" width="40"></a>*
 
-🌱 [My Blog](https://anhhn.netlify.app/), where I write TIL and any knowledge that i feel interesting.
+🌱 [My Blog](https://anhnh-3008.github.io/my-garden/), where I write TIL and any knowledge that i feel interesting.
 
 🌱 If you are a Ruby Developer and feel annoyed when reading the value of [config](https://github.com/rubyconfig/config), check out [my VSCode extension](https://github.com/anhnh-3008/display-hardcode-value)
 
